@@ -2,8 +2,9 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-My name is Andrey, I'm a full-stack developer. My main stack is .NET C#, IoT, JavaScript, Node, React, Vue.<br>
-I'm [@appsmaker](https://t.me/appsmaker) on Telegram.
+Hello! My name is Andrey, I'm a full-stack developer .NET C#, JavaScript.
+<br>[Details about stack's and experiense here](../../blob/master/WHOAMI_EN.md)
+
 
 ### Guidelines
 
