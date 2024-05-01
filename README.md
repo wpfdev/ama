@@ -1,4 +1,5 @@
-# Спроси меня о чем-нибудь
+# Спроси меня о чем-нибудь 
+([For English](../../blob/master/README_EN.md))
 
 ## [Кто я?](../../blob/master/WHOAMI_RU.md)
 
