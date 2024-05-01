@@ -1,7 +1,8 @@
 # Спроси меня о чем-нибудь 
 ([For English](../../blob/master/README_EN.md))
 
-## [Кто я?](../../blob/master/WHOAMI_RU.md)
+Привет! Меня зовут Андрей, я full-stack разработчик .NET C#, IoT, JavaScript.
+<br>[Подробности о стэке и опыте здесь](../../blob/master/WHOAMI_RU.md)
 
 ## [Задать вопрос](../../issues/new) &nbsp;&nbsp;&nbsp; [Смотреть ответы](../../issues?q=is%3Aissue+is%3Aclosed)
 
